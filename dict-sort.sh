@@ -1,6 +1,8 @@
 #!/bin/bash
 echo "sortowanie plików słownikowych..."
 
+cd dict
+pwd
 
 files="*dict" # input files
 #files="super.dict"
