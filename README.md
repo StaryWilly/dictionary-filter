@@ -1,3 +1,7 @@
+About me: Im Linux Administrator in very big company. 
+
+----------------------------------------------------
+
 # dictionary-filter
 Filter, sort and merge and optimalization for dictionary attack
 
